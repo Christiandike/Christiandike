@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Christian Dike (/dee-kay/)
-- I’m currently learning HTML, CSS and JS
-- Working towards becoming a full stack developer.
+Christian Dike
+
 
 <!---
 Christiandike/Christiandike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
